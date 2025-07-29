@@ -1,9 +1,8 @@
 <template>
   <div class="opening-container">
     <img :src="viteLogo" alt="Vite Logo" class="opening-logo" />
-    <h1 class="opening-title">GitHub Copilot Global Bootcamp</h1>
-    <h2 class="opening-sub">Japan Microsoft MVP Conf</h2>
-    <div class="opening-date">2025/6/28</div>
+    <h1 class="opening-title">GitHub Copilot Training</h1>
+    <h2 class="opening-sub">演習02 プロダクト実装</h2>
     <router-link to="/quiz" class="start-btn">クイズを始める</router-link>
   </div>
 </template>
